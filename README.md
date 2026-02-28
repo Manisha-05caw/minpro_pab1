@@ -85,6 +85,15 @@ Pengguna dapat menyimpan berbagai informasi penting dari setiap kunjungan ke dok
 | `LinearGradient` | Efek gradasi biru pada header dan card |
 | `Icon` | Ikon dari Material Icons |
 
+
+<img width="797" height="1706" alt="image" src="https://github.com/user-attachments/assets/f049d159-f632-42b6-83b5-e8c471d182dd" />
+
+
+
+
+<img width="799" height="1707" alt="image" src="https://github.com/user-attachments/assets/f18035e9-0ad6-495d-b001-feb9b8dc0960" />
+
+
 ---
 
 ## 4. Struktur File Proyek
